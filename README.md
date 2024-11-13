@@ -1,6 +1,6 @@
 First clone this repository, install the dependencies, and setup your .env file.
 
-  git clone https://github.com/harshmore785/EMI-Processing.git
+  git clone https://github.com/harshmore785/family-details.git
   composer install
   cp .env.example .env
   php artisan key:generate
